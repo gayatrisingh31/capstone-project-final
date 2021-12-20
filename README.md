@@ -13,7 +13,7 @@ This app can do:
 
 # Environment Variables
 
-This app needs the following environment Variables
+This app need the following environment Variables
 
 - `MONGODB_HOST` this is the Mongodb URI string
 - `MONGODB_DATABASE` Mongodb database name
